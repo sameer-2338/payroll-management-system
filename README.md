@@ -1,16 +1,14 @@
-![Header](./screenshots/github-header-image.png)
 
 # Payroll Management System
 
 The Payroll Management System is a software application designed to manage and automate various aspects of employee payroll and salary processing. This repository contains the code for the Payroll Management System implemented in Python.
 
-![GitHub](https://img.shields.io/github/license/duisternis/payroll-management-system?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/duisternis/payroll-management-system?style=for-the-badge)
+
 
 ## Initial Login Credentials
 
-- UsernameID: 0A00
-- Password: pass@123
+- UsernameID: 892069
+- Password: Sameer123
 
 ## Features
 
@@ -29,7 +27,7 @@ The Payroll Management System is a software application designed to manage and a
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/payroll-management-system.git
+git clone https://github.com/sameer-2338/payroll-management-system/
 ```
 
 2. Make sure you have Python and the required libraries installed (Tkinter, MySQL connector, FPDF, etc.).
@@ -44,15 +42,4 @@ python main.py
 
 5. The application will open, and you can log in with your credentials.
 
-## Screenshots
 
-![App Screenshot](./screenshots/s1.png)
-![App Screenshot](./screenshots/s2.png)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
-## Authors
-
-"This application was made by a drunk student." - [@duisternis](https://www.github.com/duisternis)
